@@ -1,0 +1,14 @@
+{
+    "name": "trupti/whc-app",
+    "autoload": {
+        "psr-4": {
+            "WhcApp\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "trupti"
+        }
+    ],
+    "require": {}
+}
